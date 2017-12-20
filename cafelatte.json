@@ -1,0 +1,30 @@
+{
+    "server_name": "Df API Server",
+    "server_type": "develop",
+    "project": {
+      "name": "hello world project",
+      "path": "/var/www/html/api/",
+      "version": "0.1.1",
+      "url": "http://api.zzing.co.kr",
+      "security_level": "normal"
+    },
+    "log": {
+      "level": "debug",
+      "path": "/var/www/html/api/logs/"
+    },
+    "template": {
+      "input": "",
+      "output": "",
+      "user": "",
+      "group": ""
+    },
+    "upload": {
+      "path": ""
+    },
+    "config": {
+      "key1": "value1",
+      "key2": "value2",
+      "key3": "value3",
+      "key4": "value4"
+    }
+  }

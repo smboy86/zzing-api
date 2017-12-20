@@ -1,0 +1,46 @@
+[
+    {
+        "name": "cafelatte/framework",
+        "version": "v1.0.5",
+        "version_normalized": "1.0.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/cafe-latte/framework.git",
+            "reference": "633ab0ebf199266015908d843d4443bf4c5d6f9a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/cafe-latte/framework/zipball/633ab0ebf199266015908d843d4443bf4c5d6f9a",
+            "reference": "633ab0ebf199266015908d843d4443bf4c5d6f9a",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0"
+        },
+        "time": "2017-12-14T00:34:41+00:00",
+        "type": "framework",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "CafeLatte\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Thorpe Lee(Gwangbok Lee)",
+                "email": "koangbok@gmail.com",
+                "homepage": "http://www.cafe-latte.co.kr"
+            }
+        ],
+        "description": "CafeLatte(CL) Framework is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs, response few types of format such as xml, json, text, html etc.",
+        "homepage": "http://www.cafe-latte.co.kr",
+        "keywords": [
+            "framework",
+            "micro framework"
+        ]
+    }
+]
